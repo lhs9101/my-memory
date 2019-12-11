@@ -1,0 +1,8 @@
+{
+    "jshint.enable": false,
+    "files.associations": {
+        "*.js":"javascriptreact"
+    },
+    "eslint.autoFixOnSave": true,
+    "editor.formatOnSave": true
+}
